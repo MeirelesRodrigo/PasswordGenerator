@@ -8,7 +8,7 @@ Este projeto é uma aplicação web simples, desenvolvida em HTML, CSS e JavaScr
 
 ### Demonstração
 
-![Gerador de Senha](./img/screenshot.png)
+![Gerador de Senha](img-senha.png)
 
 ## Funcionalidades
 
