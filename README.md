@@ -42,7 +42,7 @@ Este projeto é uma aplicação web simples, desenvolvida em HTML, CSS e JavaScr
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/gerador-de-senha.git
+    git clone [https://github.com/seu-usuario/gerador-de-senha.git](https://github.com/MeirelesRodrigo/PasswordGenerator.git)
     ```
 2. Abra o arquivo `index.html` no navegador para iniciar a aplicação.
 
